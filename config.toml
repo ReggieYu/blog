@@ -1,0 +1,5 @@
+appName = "blog"
+
+[log]
+level = "debug"
+path = "logs/blog.log"
